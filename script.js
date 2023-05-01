@@ -10,7 +10,6 @@
 // ==/UserScript==
 
 let i = true;
-//var pozice = document.getElementById("table_2_obr1").getBoundingClientRect();
 var button = document.createElement("input");
 button.type = "checkbox";
 button.style.left = "10px";
