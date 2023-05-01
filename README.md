@@ -1,2 +1,2 @@
 # hide-registered-exams
-Hides exams you are already registered for
+Offers option to hide exams that you are already registered for.
