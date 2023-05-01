@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         hide-registered-exams
+// @name         hide-registered-exams-mendelu
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Hides exams you are already registered for
